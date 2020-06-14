@@ -26,3 +26,6 @@ API via zapier com Firebase
   telas do caminhonheiro
   painel de gestáo,cadastro persona,  cadastro de consultas, seleção de médicos, confirmação agenda
   telas do médico cadastro persona, painel de gestáo consultas, telas de selecao de pacientes
+  
+  Página do facebook do projeto
+  https://www.facebook.com/naboleiaestrada
