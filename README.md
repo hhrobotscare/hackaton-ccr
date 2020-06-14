@@ -19,3 +19,10 @@ API via zapier com Firebase
   https://zapier.com/shared/62c8f9038fec8c4804f413af6996bd0fc0c8ab5f
   3.banco de dados fadigometro
   https://zapier.com/shared/f10c0b4e83b47631c1653d92b614baac6ee334a7
+  
+  prototipo no figma - prototipo navegável
+  https://www.figma.com/file/ZY4eND6vaZDSAUiGK3uPbs/Juntos-Caminhonheiros?node-id=0%3A1
+  telas de login
+  telas do caminhonheiro
+  painel de gestáo,cadastro persona,  cadastro de consultas, seleção de médicos, confirmação agenda
+  telas do médico cadastro persona, painel de gestáo consultas, telas de selecao de pacientes
